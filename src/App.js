@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+
 import './App.css';
 import PureComponent from './component/pureComponent';
 import Hoc from './component/Hoc';
